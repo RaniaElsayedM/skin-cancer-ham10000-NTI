@@ -56,16 +56,16 @@ Early detection of skin cancer can significantly improve patient outcomes, and t
 ## 📊 Results
 | Task            | Model          | Metric           | Score  |
 |-----------------|----------------|------------------|--------|
-| Segmentation    | U-Net          | Dice Coefficient | 0.93  |
+| Segmentation    | U-Net          | Dice Coefficient | 0.93   |
 | Detection       | YOLOv8         | mAP@0.5          | 0.91   |
-| Classification  | EfficientNetB0 | Accuracy         | 0.96   |
+| Classification  | ResNet50       | Accuracy         | 0.96   |
 
 ---
 ## 👥 Team Members
 - **Rania Elsayed** — Worked on **Segmentation (U-Net)**
 - **Jasmine Mohamed** — Worked on **Object Detection (YOLOv8)**
-- **Nesma Nasser** — Worked on **Classification (EfficientNet / ResNet)** 
-- **Bassant Elsayed** — Worked on **Classification (EfficientNet / ResNet)** 
+- **Nesma Nasser** — Worked on **Classification (ResNet50)** 
+- **Bassant Elsayed** — Worked on **Classification (VGG16 / MobileNetv2)** 
 
 
 
