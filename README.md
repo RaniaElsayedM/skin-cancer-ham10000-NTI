@@ -57,8 +57,8 @@ Early detection of skin cancer can significantly improve patient outcomes, and t
 | Task            | Model          | Metric           | Score  |
 |-----------------|----------------|------------------|--------|
 | Segmentation    | U-Net          | Dice Coefficient | 0.93   |
-| Detection       | YOLOv8         | mAP@0.5          | 0.91   |
-| Classification  | ResNet50       | Accuracy         | 0.96   |
+| Detection       | YOLOv8s         | mAP@0.5          | 0.91   |
+| Classification  | ResNet50/VGG16 | Accuracy         | 0.96   |
 
 ---
 ## 👥 Team Members
