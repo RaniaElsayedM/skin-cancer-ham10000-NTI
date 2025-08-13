@@ -15,7 +15,7 @@ Early detection of skin cancer can significantly improve patient outcomes, and t
 - **Name:** HAM10000
 - **Images:** 10,015 dermatoscopic images
 - **Classes:** 7 lesion categories
-**Source:** [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) ,
+- **Sources:** [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) ,
 [HAM10000 Lesion Segmentations](https://www.kaggle.com/datasets/tschandl/ham10000-lesion-segmentations) 
 
 ---
