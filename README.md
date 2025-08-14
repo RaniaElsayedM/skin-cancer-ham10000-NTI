@@ -41,7 +41,7 @@ Early detection of skin cancer can significantly improve patient outcomes, and t
 
 ---
 
-### 3️⃣ Classification (EfficientNet / ResNet)
+### 3️⃣ Classification (VGG16 / ResNet)
 - **Task:** Classify lesion type (7 classes)
 - **Output:** Predicted class + probability
 - **Metrics:** **Accuracy**, **F1-score**, **Confusion Matrix**
