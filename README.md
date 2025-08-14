@@ -15,13 +15,13 @@ Early detection of skin cancer can significantly improve patient outcomes, and t
 - **Name:** HAM10000
 - **Images:** 10,015 dermatoscopic images
 - **Classes:** 7 lesion categories :
-Melanocytic nevi (nv)                  6705
-Basal cell carcinoma (bcc)             6682
-Melanoma (mel)                         6678
-Vascular lesions (vasc)                6674
-Dermatofibroma (df)                    6670
-Benign keratosis-like lesions (bkl)    6594
-Actinic keratoses (akiec)              6540
+- Melanocytic nevi (nv)                  6705
+- Basal cell carcinoma (bcc)             6682
+- Melanoma (mel)                         6678
+- Vascular lesions (vasc)                6674
+- Dermatofibroma (df)                    6670
+- Benign keratosis-like lesions (bkl)    6594
+- Actinic keratoses (akiec)              6540
 - **Sources:** [Skin Cancer MNIST: HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000) ,
 [HAM10000 Lesion Segmentations](https://www.kaggle.com/datasets/tschandl/ham10000-lesion-segmentations) 
 
